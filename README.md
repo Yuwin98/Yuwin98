@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Yuwin
 #### I am a developer from Sri Lanka
-![I am interested in field of AI and Data Science, Mobile App Development, Web Development in MEAN and J2EE stacks and i am also a novice C++ and Rust programmer](YMS.Jpg)
+![I am interested in field of AI and Data Science, Mobile App Development, Web Development in MEAN and J2EE stacks and i am also a novice C++ and Rust programmer]<img src="/YMS.jpg" width="200"> 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
