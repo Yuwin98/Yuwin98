@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Yuwin
 #### I am a developer from Sri Lanka
-<img src="/YMS.jpg" width="800" > 
+<img src="/YMS.jpg" width="700" > 
 
 I am interested in field of AI and Data Science, Mobile App Development, Web Development in MEAN and J2EE stacks and i am also a novice C++ and Rust programmer.
 
@@ -17,8 +17,6 @@ Skills: Android Developer / JAVA / JS / HTML / CSS / PYTHON / AI / KOTLIN / C++
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuwin98)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuwin98&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Yuwin98)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yuwin98)  
 
